@@ -1,4 +1,4 @@
-<h1 align="center">Unit Testing Course with C#</h1>
+<h1 align="center">Lista Kotlin</h1>
 <h3 align="center">
 <a href="https://www.youtube.com/playlist?list=PLWNaqtzH6CWRUd0iIEJotRrpwtXXnFROE" target="_blank">Unit Testing Course with C# - ProgrAmada Mente channel</a>
 </h3>
@@ -39,7 +39,7 @@ The following tools were used in the construction of the project:
 
 <h2 id=author>:grin: Author</h2>
 
-Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>
+Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Lucca França</a>
 
 <h2 id=licence>:lock: Licence</h2>
 <a href="https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/LICENSE" target="_blank">MIT</a>
