@@ -39,7 +39,7 @@ The following tools were used in the construction of the project:
 
 <h2 id=author>:grin: Author</h2>
 
-Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Lucca França</a>
+Developed by <a href="https://www.linkedin.com/in/lucca-fran%C3%A7a-8828b629b/">Lucca França</a>
 
 <h2 id=licence>:lock: Licence</h2>
 <a href="https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/LICENSE" target="_blank">MIT</a>
